@@ -10,8 +10,7 @@ with Binance Chain. It includes the following core components.
 - **accounts** - management of "accounts" and wallets, including seed and
   encrypted mnemonic generation.
 - **ledger** - Ledger Nano S/X support via HID, U2F and Web BLE (Bluetooth).
-- **rpc** - Node RPC client.
-- **transaction** - Transaction Class, build and sign.
+  
 
 You can find more detailed documentation and examples in our
 [Documentation](https://github.com/binance-chain/javascript-sdk/blob/master/docs/README.md)
